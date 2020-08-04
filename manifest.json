@@ -1,0 +1,10 @@
+{
+  "name": "flash",
+  "description": "Focus search boxes without using a mouse",
+  "manifest_version": 2,
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": ""
+  },
+  "permissions": ["input"]
+}
