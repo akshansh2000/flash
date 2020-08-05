@@ -1,6 +1,9 @@
 # editor
 .vscode/
 
+# key
+flash.pem
+
 # Logs
 logs
 *.log
