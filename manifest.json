@@ -1,6 +1,6 @@
 {
-  "name": "FLASH - Forward sLASH",
-  "description": "Use your keyboard's slash (/) key to focus on search boxes",
+  "name": "Search with Slash (/)",
+  "description": "Use your keyboard's slash (/) key to focus on websites' search boxes",
   "manifest_version": 2,
   "version": "0.1",
   "browser_action": {
